@@ -1,0 +1,14 @@
+
+{
+  "name": "Cosmic Chakra Tracker",
+  "short_name": "ChakraTracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0c1d",
+  "theme_color": "#6c63ff",
+  "icons": [{
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lotus_flower_in_full_bloom.jpg/192px-Lotus_flower_in_full_bloom.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
